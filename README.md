@@ -9,4 +9,5 @@ Spam sms , cocok untuk riper.
 git clone https://github.com/Kazuya-X/spamsms_
 
 cd spamsms_
+
 python tes.py
