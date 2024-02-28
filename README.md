@@ -6,7 +6,7 @@ Spam sms , cocok untuk riper.
 
 # Cara Install
 
-git clone https://githun.com/Kazuya-X/spamsms_
+git clone https://github.com/Kazuya-X/spamsms_
 
 cd spamsms_
 python tes.py
