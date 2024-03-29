@@ -5,8 +5,12 @@ Spam sms , cocok untuk riper.
 <img width="200" src="Screenshot_20240228-225929.png"/>
 
 
-# announcement 
-→ Sc hasil recode namun lebih fleksibel & Ringan dari aslinya 
+# the advantages of this script
+<ul>
+  <li>fleksibel </li>
+   <li> Ringan </li>
+  <li> hasil yang baik </li>
+</ul>
 
 # Cara Install
 ```
